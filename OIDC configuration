@@ -1,0 +1,1 @@
+configure OIDC using the command : eksctl utils associate-iam-oidc-provider --cluster <cluster name> --approve
