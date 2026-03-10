@@ -1,0 +1,3 @@
+Install using Fargate : eksctl create cluster --name demo-cluster --region us-east-1 --fargate
+
+After the setup was done, don't forget to delete the cluster using : eksctl delete cluster --name demo-cluster --region us-east-1
